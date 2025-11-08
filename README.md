@@ -1,4 +1,10 @@
 # 4212311040_Yoan-Siagian-MIDTERM
+Nama : Yoan Krisdinata Putra Siagian
+
+Nim : 4212311040
+
+Kelas : Meka B Malam
+
 • program	untuk	klasifikasi	karakter	tulisan	tangan	pada	dataset	EMNIST	(Extended	MNIST)	menggunakan	HOG	Feature	Extraction	dengan	klasifier	Support	Vector	Machine	(SVM).
 
 • Dataset	yang	Anda	gunakan	emnist-letters-train	(jumlah	classes	:	26)		
